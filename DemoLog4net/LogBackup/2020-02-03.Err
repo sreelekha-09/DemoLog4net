@@ -1,0 +1,4 @@
+ERROR - System.DivideByZeroException: Attempted to divide by zero.
+   at DemoLog4net._Default.Page_Load(Object sender, EventArgs e) in C:\Users\Sreelekha_Bolloju\source\repos\DemoLog4net\DemoLog4net\Default.aspx.cs:line 24
+ERROR - System.DivideByZeroException: Attempted to divide by zero.
+   at DemoLog4net._Default.Page_Load(Object sender, EventArgs e) in C:\Users\Sreelekha_Bolloju\source\repos\DemoLog4net\DemoLog4net\Default.aspx.cs:line 24
